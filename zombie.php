@@ -1,9 +1,8 @@
 {
-  "Version_update": "1.0",
-  "Link_zip": "https://github.com/APOLLO08/Cat-VPN/raw/main/zombie.zip",
-  "Password": "254500",
-  "Message": "
-⚠️ควรอ่านรายละเอียดก่อนใช้งาน
+"Version_update": "1.0",
+"Link_zip": "https://github.com/APOLLO08/zombievpn/blob/main/zombie.zip?raw=true",
+"Password": "254500",
+"Message": "⚠️ควรอ่านรายละเอียดก่อนใช้งาน
 รายละเอียดการอัปเดตวันที่ 15-04-2022
 ใหม่ เซิร์ฟเวอร์Th1
 ใหม่ เซิร์ฟเวอร์Th2
